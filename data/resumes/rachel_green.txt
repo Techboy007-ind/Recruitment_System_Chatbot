@@ -1,0 +1,23 @@
+
+RACHEL GREEN
+Email: rachel.green@email.com | Phone: +1-345-678-9012
+
+SUMMARY
+ML Engineer with 3 years in building conversational AI systems.
+
+EXPERIENCE
+ML Engineer | ChatbotCo | 2022 - Present
+- Built multi-turn conversational systems with LangChain
+- Integrated Gemini and Claude LLMs into production
+- Optimized conversation flows for better UX
+
+Junior ML Engineer | AIStart | 2021 - 2022
+- Built simple chatbots using rule-based systems
+- Transitioned to LLM-based approaches
+
+EDUCATION
+M.S. in AI | University of Southern California | 2021
+B.S. in Computer Science | UCLA | 2019
+
+SKILLS
+Python, LangChain, Conversational AI, Prompt Engineering, ChromaDB, FastAPI, Gemini API, Claude API

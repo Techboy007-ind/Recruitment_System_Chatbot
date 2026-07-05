@@ -1,0 +1,23 @@
+
+JANE SMITH
+Email: jane.smith@email.com | Phone: +1-345-678-9012
+
+SUMMARY
+Full-stack AI/ML engineer with 4 years in building end-to-end ML systems and APIs.
+
+EXPERIENCE
+AI/ML Engineer | StartupXYZ | 2022 - Present
+- Built LLM integrations using LangChain and OpenAI APIs
+- Implemented vector search with Chroma for semantic retrieval
+- Developed FastAPI microservices for ML inference
+
+Junior ML Engineer | BigData Co | 2020 - 2022
+- Created data pipelines with Python and Pandas
+- Trained and evaluated classification models
+
+EDUCATION
+M.S. in Data Science | Stanford | 2020
+B.S. in Mathematics | UC Berkeley | 2018
+
+SKILLS
+Python, LangChain, OpenAI API, ChromaDB, FastAPI, Docker, PostgreSQL, Pandas, Scikit-learn

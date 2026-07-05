@@ -1,0 +1,22 @@
+
+VICTORIA BROWN
+Email: victoria.brown@email.com | Phone: +1-567-890-1234
+
+SUMMARY
+Data Engineer with 4 years in building data pipelines. New to ML/AI space.
+
+EXPERIENCE
+Senior Data Engineer | DataFlow Corp | 2022 - Present
+- Built ETL pipelines processing 10GB+ daily data
+- Recently exploring data pipelines for ML systems
+- Learning about embeddings and vector databases
+
+Data Engineer | DataWorks | 2020 - 2022
+- Created data infrastructure for analytics
+- Optimized database queries and performance
+
+EDUCATION
+B.S. in Computer Science | University of Washington | 2020
+
+SKILLS
+Python, SQL, Spark, Airflow, PostgreSQL, ETL, (beginner) ML concepts, (learning) Vector databases, ChromaDB

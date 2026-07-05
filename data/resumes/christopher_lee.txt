@@ -1,0 +1,22 @@
+
+CHRISTOPHER LEE
+Email: christopher.lee@email.com | Phone: +1-456-789-0123
+
+SUMMARY
+Backend engineer with 5 years experience, exploring AI and ML integration.
+
+EXPERIENCE
+Senior Backend Engineer | ScaleApp | 2020 - Present
+- Built scalable backend systems in Python and Java
+- Recently integrated LLM APIs for new features
+- Implemented caching and optimization techniques
+
+Backend Engineer | AppDev Co | 2019 - 2020
+- Developed REST APIs and microservices
+- Worked with PostgreSQL and Redis
+
+EDUCATION
+B.S. in Computer Science | University of California | 2019
+
+SKILLS
+Python, Java, FastAPI, PostgreSQL, Redis, Microservices, Docker, (beginner) LLM integration, (learning) LangChain

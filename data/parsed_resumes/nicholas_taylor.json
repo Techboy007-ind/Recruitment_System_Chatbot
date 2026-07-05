@@ -1,0 +1,20 @@
+{
+  "name": "NICHOLAS TAYLOR",
+  "email": "nicholas.taylor@email.com",
+  "phone": "N/A",
+  "education": "M.S. in Machine Learning",
+  "experience_years": 3,
+  "skills": [
+    "llm",
+    "rag",
+    "python",
+    "tensorflow",
+    "chromadb",
+    "langchain",
+    "pytorch",
+    "machine learning"
+  ],
+  "key_projects": [
+    "Experience in professional software development"
+  ]
+}

@@ -1,0 +1,22 @@
+
+MICHAEL JOHNSON
+Email: michael.johnson@email.com | Phone: +1-567-890-1234
+
+SUMMARY
+Backend engineer transitioning to AI with 6 years of software engineering experience.
+
+EXPERIENCE
+Senior Backend Engineer | CloudSys | 2018 - Present
+- Built microservices architecture handling 10K req/sec
+- Implemented caching and optimization strategies
+- Recently started exploring LangChain and LLM integrations
+
+Backend Engineer | WebScale Inc | 2017 - 2018
+- Developed REST APIs in Python and Node.js
+- Managed PostgreSQL and Redis databases
+
+EDUCATION
+B.S. in Computer Science | University of Washington | 2017
+
+SKILLS
+Python, Node.js, FastAPI, PostgreSQL, Redis, Docker, Kubernetes, System Design, (learning) LangChain

@@ -1,0 +1,23 @@
+
+NICHOLAS TAYLOR
+Email: nicholas.taylor@email.com | Phone: +1-678-901-2345
+
+SUMMARY
+Experienced ML Engineer with 5 years in computer vision and recent expansion into LLM/RAG systems.
+
+EXPERIENCE
+ML Engineer | VisionPlus | 2021 - Present
+- Developed computer vision models with PyTorch
+- Recently built RAG systems with LangChain and ChromaDB
+- Implemented retrieval pipelines for document understanding
+
+ML Engineer | ImageAI | 2020 - 2021
+- Built CNN models for various vision tasks
+- Deployed models with TensorFlow Serving
+
+EDUCATION
+M.S. in Machine Learning | Carnegie Mellon University | 2020
+B.S. in Computer Science | Cornell University | 2018
+
+SKILLS
+Python, PyTorch, TensorFlow, Computer Vision, LangChain, ChromaDB, RAG, FastAPI, System Design

@@ -1,0 +1,21 @@
+
+DAVID BROWN
+Email: david.brown@email.com | Phone: +1-890-123-4567
+
+SUMMARY
+Research scientist transitioning to industry with 2 years of research and 1 year of applied ML.
+
+EXPERIENCE
+ML Researcher | ResearchLab | 2024 - Present
+- Published 2 papers on LLM fine-tuning and RAG optimization
+- Implemented state-of-the-art NLP models
+
+Research Intern | University Lab | 2022 - 2024
+- Conducted NLP research using TensorFlow and PyTorch
+- Contributed to open-source NLP projects
+
+EDUCATION
+B.S. in Computer Science | UC Berkeley | 2022
+
+SKILLS
+Python, PyTorch, TensorFlow, Research, NLP, (learning) LangChain, LLMs, Limited production experience

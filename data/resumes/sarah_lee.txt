@@ -1,0 +1,23 @@
+
+SARAH LEE
+Email: sarah.lee@email.com | Phone: +1-678-901-2345
+
+SUMMARY
+Data Scientist with 3 years in machine learning and statistical analysis.
+
+EXPERIENCE
+Data Scientist | AnalyticsPro | 2021 - Present
+- Built predictive models for customer churn (RandomForest, XGBoost)
+- Created data visualizations and dashboards with Tableau
+- Basic Python and SQL, exploring LangChain
+
+Junior Data Scientist | DataInsight Co | 2021
+- Analyzed A/B test results and reported findings
+- Built regression models for trend analysis
+
+EDUCATION
+M.S. in Statistics | University of Michigan | 2021
+B.S. in Mathematics | University of Illinois | 2019
+
+SKILLS
+Python, Pandas, Scikit-learn, SQL, Tableau, Statistics, (beginner) LangChain

@@ -1,0 +1,23 @@
+
+KAREN WHITE
+Email: karen.white@email.com | Phone: +1-456-789-0123
+
+SUMMARY
+Principal ML Engineer with 7 years at FAANG companies. Expert in production systems and team leadership.
+
+EXPERIENCE
+Principal ML Engineer | GoogleAI | 2019 - Present
+- Led ML platform team of 6 engineers
+- Implemented large-scale RAG systems with 1M+ documents
+- Mentored junior engineers on LLM best practices
+
+Senior ML Engineer | Facebook AI | 2016 - 2019
+- Built recommendation systems serving 1B+ users
+- Optimized TensorFlow models for mobile deployment
+
+EDUCATION
+Ph.D. in Machine Learning | CMU | 2016
+B.S. in Computer Science | Carnegie Mellon University | 2012
+
+SKILLS
+Python, PyTorch, TensorFlow, LLMs, RAG, ChromaDB, Kubernetes, GCP, Leadership, System Design

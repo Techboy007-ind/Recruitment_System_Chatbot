@@ -1,0 +1,23 @@
+
+ROBERT MARTINEZ
+Email: robert.martinez@email.com | Phone: +1-012-345-6789
+
+SUMMARY
+Senior AI Engineer with 6 years in production AI systems and team leadership.
+
+EXPERIENCE
+Head of AI | TechVentures | 2021 - Present
+- Led AI team of 4 engineers building LLM applications
+- Implemented RAG systems with LangChain and ChromaDB
+- Mentored engineers on prompt engineering and LLM best practices
+
+Senior AI Engineer | AIFirst Corp | 2018 - 2021
+- Built recommendation systems and NLP pipelines
+- Optimized model serving with FastAPI
+
+EDUCATION
+M.S. in Computer Science | Carnegie Mellon University | 2018
+B.S. in Computer Science | UC San Diego | 2016
+
+SKILLS
+Python, LangChain, LangGraph, ChromaDB, FastAPI, Leadership, NLP, RAG, Prompt Engineering

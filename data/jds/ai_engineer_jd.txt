@@ -1,0 +1,20 @@
+
+Role: Senior AI Engineer
+
+Required Skills:
+- Python
+- LangChain
+- ChromaDB
+- FastAPI
+- LangGraph
+- Machine Learning fundamentals
+- RAG systems
+
+Responsibilities:
+- Design and build production LLM applications
+- Optimize vector database queries and retrieval
+- Mentor junior engineers on best practices
+- Build end-to-end AI systems
+- Deploy and monitor AI models in production
+
+Required Experience: 4 years

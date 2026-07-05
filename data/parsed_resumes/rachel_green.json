@@ -1,0 +1,19 @@
+{
+  "name": "RACHEL GREEN",
+  "email": "rachel.green@email.com",
+  "phone": "N/A",
+  "education": "M.S. in AI",
+  "experience_years": 4,
+  "skills": [
+    "llm",
+    "python",
+    "chromadb",
+    "langchain",
+    "ml",
+    "fastapi",
+    "ai"
+  ],
+  "key_projects": [
+    "Experience in professional software development"
+  ]
+}

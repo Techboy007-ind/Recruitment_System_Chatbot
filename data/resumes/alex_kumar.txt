@@ -1,0 +1,22 @@
+
+ALEX KUMAR
+Email: alex.kumar@email.com | Phone: +1-789-012-3456
+
+SUMMARY
+DevOps & MLOps engineer with 5 years in deployment and infrastructure.
+
+EXPERIENCE
+MLOps Engineer | AI Ops Inc | 2022 - Present
+- Deployed ML models using Docker, Kubernetes, and CI/CD pipelines
+- Integrated LangChain models into production systems
+- Monitored and optimized model serving infrastructure
+
+DevOps Engineer | CloudScale Corp | 2019 - 2022
+- Managed AWS infrastructure and automation
+- Implemented monitoring and logging solutions
+
+EDUCATION
+B.S. in Computer Science | IIT Delhi | 2019
+
+SKILLS
+Docker, Kubernetes, AWS, CI/CD, Python, Bash, Terraform, (learning) MLOps, LangChain basics

@@ -1,0 +1,20 @@
+{
+  "name": "KAREN WHITE",
+  "email": "karen.white@email.com",
+  "phone": "N/A",
+  "education": "Ph.D. in Machine Learning",
+  "experience_years": 5,
+  "skills": [
+    "llm",
+    "rag",
+    "python",
+    "tensorflow",
+    "chromadb",
+    "pytorch",
+    "machine learning",
+    "ml"
+  ],
+  "key_projects": [
+    "Experience in professional software development"
+  ]
+}

@@ -1,0 +1,22 @@
+
+THOMAS HENRY
+Email: thomas.henry@email.com | Phone: +1-234-567-8901
+
+SUMMARY
+Principal Software Architect with 12 years of experience. Limited ML background but strong system design.
+
+EXPERIENCE
+Principal Architect | EnterpriseSoft | 2018 - Present
+- Designed large-scale distributed systems
+- Recently exploring LLM integrations for enterprise applications
+- Strong in architecture and system design
+
+Senior Engineer | BigCorp | 2015 - 2018
+- Led engineering team building core systems
+- Optimized database performance and system design
+
+EDUCATION
+B.S. in Computer Science | Stanford | 2012
+
+SKILLS
+System Design, Java, Python, Microservices, Database Design, Leadership, (limited) ML, (learning) LangChain

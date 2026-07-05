@@ -1,0 +1,19 @@
+{
+  "name": "SARAH LEE",
+  "email": "sarah.lee@email.com",
+  "phone": "N/A",
+  "education": "M.S. in Statistics",
+  "experience_years": 3,
+  "skills": [
+    "python",
+    "sql",
+    "langchain",
+    "machine learning",
+    "scikit-learn",
+    "ai",
+    "pandas"
+  ],
+  "key_projects": [
+    "Experience in professional software development"
+  ]
+}

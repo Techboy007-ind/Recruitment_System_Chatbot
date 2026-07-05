@@ -1,0 +1,22 @@
+
+EMMA WILSON
+Email: emma.wilson@email.com | Phone: +1-901-234-5678
+
+SUMMARY
+Full-stack engineer with 8 years of experience in web and recently AI systems.
+
+EXPERIENCE
+AI Full-Stack Engineer | InnovateTech | 2021 - Present
+- Built end-to-end AI applications with React frontend and Python backend
+- Integrated Gemini API with LangChain for chatbot applications
+- Deployed to AWS and optimized for scale
+
+Senior Full-Stack Engineer | WebDev Co | 2016 - 2021
+- Developed web applications with Node.js and React
+- Managed AWS infrastructure and databases
+
+EDUCATION
+B.S. in Computer Science | University of Texas | 2016
+
+SKILLS
+Python, JavaScript, React, Node.js, FastAPI, AWS, Docker, LangChain, Gemini API, Full-stack development

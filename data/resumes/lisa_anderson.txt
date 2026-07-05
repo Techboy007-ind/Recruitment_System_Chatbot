@@ -1,0 +1,23 @@
+
+LISA ANDERSON
+Email: lisa.anderson@email.com | Phone: +1-123-456-7890
+
+SUMMARY
+ML Engineer with 4 years of experience in computer vision and recent pivot to LLM systems.
+
+EXPERIENCE
+ML Engineer | VisionAI Inc | 2021 - Present
+- Worked on computer vision models initially
+- Recently transitioned to LLM/RAG work with LangChain
+- Built document understanding systems with ChromaDB
+
+Computer Vision Engineer | ImageTech | 2020 - 2021
+- Developed CNN models for image classification
+- Deployed models using TensorFlow Lite
+
+EDUCATION
+M.S. in Computer Science | MIT | 2020
+B.S. in Computer Science | Georgia Tech | 2018
+
+SKILLS
+Python, PyTorch, TensorFlow, Computer Vision, (recent) LangChain, ChromaDB, RAG, FastAPI

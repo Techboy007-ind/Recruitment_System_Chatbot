@@ -1,0 +1,20 @@
+{
+  "name": "ROBERT MARTINEZ",
+  "email": "robert.martinez@email.com",
+  "phone": "N/A",
+  "education": "M.S. in Computer Science",
+  "experience_years": 6,
+  "skills": [
+    "llm",
+    "rag",
+    "python",
+    "nlp",
+    "chromadb",
+    "langchain",
+    "fastapi",
+    "ai"
+  ],
+  "key_projects": [
+    "Experience in professional software development"
+  ]
+}
